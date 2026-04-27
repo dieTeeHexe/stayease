@@ -7,7 +7,7 @@ export default function Navbar() {
         <nav className="flex gap-6 text-sm text-gray-600">
   <a href="/">Home</a>
   <a href="/stays">Stays</a>
-  <a href="#">Host</a>
+  <a href="/post">Post</a>
 </nav>
       </div>
     </header>
